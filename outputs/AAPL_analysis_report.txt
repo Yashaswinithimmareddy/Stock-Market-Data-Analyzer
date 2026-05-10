@@ -1,0 +1,24 @@
+
+===================================================
+        STOCK MARKET DATA ANALYSIS REPORT
+===================================================
+Ticker Symbol : AAPL
+Date Range    : 2024-05-10 to 2026-05-08
+
+--- PRICE SUMMARY ---
+Highest Price : $293.32
+Lowest Price  : $171.67
+Closing Price : $293.32
+
+--- RISK & PERFORMANCE ---
+Annualized Volatility : 28.25%
+Current Market Trend  : Bullish (50-Day MA > 200-Day MA)
+
+--- INSIGHTS ---
+1. Volatility indicates the risk associated with this stock. 
+   A value around 28.25% suggests its historical price fluctuation.
+2. The current trend is Bullish (50-Day MA > 200-Day MA), which analysts use to gauge momentum.
+
+Disclaimer: This report is generated for educational purposes 
+as a Python course project and is NOT financial advice.
+===================================================
